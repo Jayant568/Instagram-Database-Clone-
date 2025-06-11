@@ -15,4 +15,4 @@ This is an instagram data base clone with few Tables including:
 
 7)Photos Tags
 
-ALong with tha it also include the dataset for 100 followers
+ALong with that it also include the dataset for 100 followers
